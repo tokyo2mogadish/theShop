@@ -28,11 +28,11 @@ namespace TheShop
 
             if (article == null)
             {
-                throw new Exception("SS/Could not order an article with id=" + id + " or price of: " + maxExpectedPrice);
+                throw new Exception("Could not order an article with id=" + id + " or price of: " + maxExpectedPrice);
             }
             else
             {
-                Logger.Debug("L/Trying to sell article with id=" + id);
+                Logger.Debug("Trying to sell article with id=" + id);
 
                 article.IsSold = true;
                 article.SoldDate = DateTime.Now;
@@ -45,8 +45,8 @@ namespace TheShop
                 }
                 catch (ArgumentNullException ex)
                 {
-                    Logger.Error("L/Could not remove article with id=" + id);
-                    throw new Exception("SS/Could not remove article with id" + ex);
+                    Logger.Error("Could not remove article with id=" + id);
+                    throw new Exception("Could not remove article with id" + ex);
                 }
 
             }
