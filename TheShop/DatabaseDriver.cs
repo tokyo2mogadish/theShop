@@ -58,7 +58,7 @@ namespace TheShop
         {
             if (this._articles == null)
             {
-                throw new Exception("Couldnt find list of articles");
+                throw new Exception("Couldn't find list of articles");
             }
             return this._articles;
         }
