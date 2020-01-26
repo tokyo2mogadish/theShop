@@ -67,7 +67,7 @@ namespace TheShop
         {
             int expected = this._articles.Count + 1;
             this._articles.Add(article);
-            if (expected != this._articles.Count + 1)
+            if (expected != this._articles.Count)
             {
                 throw new Exception("Could not add an article");
             }
