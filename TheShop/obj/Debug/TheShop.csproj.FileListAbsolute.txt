@@ -1,0 +1,7 @@
+D:\Git\TheShop\TheShop\bin\Debug\TheShop.exe.config
+D:\Git\TheShop\TheShop\bin\Debug\TheShop.exe
+D:\Git\TheShop\TheShop\bin\Debug\TheShop.pdb
+D:\Git\TheShop\TheShop\obj\Debug\TheShop.csprojAssemblyReference.cache
+D:\Git\TheShop\TheShop\obj\Debug\TheShop.csproj.CoreCompileInputs.cache
+D:\Git\TheShop\TheShop\obj\Debug\TheShop.exe
+D:\Git\TheShop\TheShop\obj\Debug\TheShop.pdb
