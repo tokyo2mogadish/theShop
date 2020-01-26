@@ -1,0 +1,17 @@
+D:\Git\TheShop\DatabaseDriverTest\obj\Debug\DatabaseDriverTest.csprojAssemblyReference.cache
+D:\Git\TheShop\DatabaseDriverTest\obj\Debug\DatabaseDriverTest.csproj.CoreCompileInputs.cache
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\DatabaseDriverTest.dll
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\DatabaseDriverTest.pdb
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\TheShop.exe
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\TheShop.pdb
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\TheShop.exe.config
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Git\TheShop\DatabaseDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Git\TheShop\DatabaseDriverTest\obj\Debug\DatabaseDriverTest.csproj.CopyComplete
+D:\Git\TheShop\DatabaseDriverTest\obj\Debug\DatabaseDriverTest.dll
+D:\Git\TheShop\DatabaseDriverTest\obj\Debug\DatabaseDriverTest.pdb
